@@ -249,18 +249,24 @@ Imbalance-Adaptable Retinal Disease Classification Using Weighted Sampling and F
 
 </details>
 
-🏆 Highlights
+---
 
-🏁 Finalist · The Infinity AI BuildFest 2026
-🥉 2nd Runner-Up · CPC Datathon, DIU
-🎓 Event Coordinator · IEEE CS Bangladesh Chapter Graduate Student Member Forum
-💻 Lead · ICPC Dhaka Regional Preliminary 2024 & 2025
-📊 Lead · CrackDataset Datathon 2024
+## 🏆 Highlights
 
-🎓 Education
+**🏁 Finalist** · The Infinity AI BuildFest 2026  
+**🥉 2nd Runner-Up** · CPC Datathon, DIU  
+**🎓 Event Coordinator** · IEEE CS Bangladesh Chapter Graduate Student Member Forum  
+**💻 Lead** · ICPC Dhaka Regional Preliminary 2024 & 2025  
+**📊 Lead** · CrackDataset Datathon 2024
 
-BSc in Computer Science & Engineering — Daffodil International University
-Jan 2022 – Dec 2025 
+---
+
+## 🎓 Education
+
+**BSc in Computer Science & Engineering** — Daffodil International University  
+Jan 2022 – Dec 2025
+
+---
 
 <div align="center">
 
