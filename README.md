@@ -53,9 +53,9 @@ SQA & Automation → Linux & Infrastructure → Cybersecurity → Cloud-Native �
   <img src="https://skillicons.dev/icons?i=playwright,selenium,typescript,java,postman" alt="SQA tools">
 </p>
 
-Manual · Functional · Regression · UI/E2E
-API · Database · Load · Performance
-POM · TestNG · Newman · JMeter · JIRA
+Manual · Functional · Regression · UI/E2E · API
+Database · Load · Performance · POM
+TestNG · Newman · JMeter · JIRA
 
 </td>
 
@@ -83,8 +83,8 @@ Security Testing · Nmap
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,apache" alt="Infrastructure technologies">
 </p>
 
-RHEL/Rocky · Ubuntu · Kali · systemd
-ACL · LVM · SELinux · firewalld · SSH
+RHEL/Rocky · Ubuntu · Kali · systemd · SSH
+ACL · LVM · SELinux · firewalld
 DNS · DHCP · NTP · NFS/SMB · LDAP
 
 </td>
@@ -105,14 +105,13 @@ ML · DL · NLP · Medical AI · Computer Vision
 </tr>
 </table>
 
-🧰 Technology Stack
+📌 At a Glance
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,git,github,python,java,cpp,c,typescript,javascript,mysql" alt="Technology stack">
-</p>
-
-<p align="center">
-RHEL/Rocky · Ubuntu · Kali · Docker · Kubernetes · Podman · Ansible · Selenium · Playwright · Postman · Newman · JMeter · Maven · JIRA · Nmap
+  <img src="https://img.shields.io/badge/6%20Featured%20Projects-0F172A?style=for-the-badge" alt="6 Featured Projects">
+  <img src="https://img.shields.io/badge/5%20Research%20Publications-0B3B56?style=for-the-badge" alt="5 Research Publications">
+  <img src="https://img.shields.io/badge/CASA%20Certified-123A5A?style=for-the-badge" alt="CASA Certified">
+  <img src="https://img.shields.io/badge/RHCSA%20%7C%20CKA-In%20Progress-1E6B8F?style=for-the-badge" alt="RHCSA CKA In Progress">
 </p>
 
 🚀 Featured Projects
